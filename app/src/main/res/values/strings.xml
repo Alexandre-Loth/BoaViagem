@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BoaViagem</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_home">Novos Gastos</string>
+    <string name="title_home">Novas Viagens</string>
+    <string name="title_dashboard">Minhas Viagens</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="linguagem_prompt">Escolha uma linguagem</string>
+    <string-array name="linguagens">
+        <item>Alimentação</item>
+        <item>Combustivel</item>
+        <item>Hospedagem</item>
+        <item>Transporte</item>
+    </string-array>
+    <string name="local">Escolha uma linguagem</string>
+    <string-array name="local">
+        <item>Rio de Janeiro</item>
+        <item>Florianopolis</item>
+        <item>Chapeco</item>
+        <item>Manaus</item>
+        <item>São Paulo</item>
+        <item>Balneario Camboriu</item>
+        <item>Blumenau</item>
+        <item>Porto Alegre</item>
+        <item>Belo Horizonte</item>
+        <item>Angra dos Reis</item>
+        <item>Brasilia</item>
+        <item>Porto de Galinhas</item>
+        <item>Recife</item>
+        <item>Vitoria</item>
+    </string-array>
+</resources>
